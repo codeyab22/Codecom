@@ -25,6 +25,7 @@ To detect errors on my visual code
 The spacing and the boxing makes my project stand out. I would try to keep it in a minimum. 
 
 Link to my website: https://codeyab22.github.io/Codecom/
+
 My page: 
 
-![image](https://drive.google.com/codeyab22.github.io_Codecom_.jpg)
+![image](codeyab22.github.io_Codecom_.jpg)
