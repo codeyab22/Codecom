@@ -27,4 +27,4 @@ The spacing and the boxing makes my project stand out. I would try to keep it in
 Link to my website: https://codeyab22.github.io/Codecom/
 My page: 
 
-![image](https://drive.google.com/drive/u/0/my-drive/codeyab22.github.io_Codecom_.png)
+![image](https://drive.google.com/file/d/1pIlUw7F54T-1-jlBAljIAj1TGJ1jWBl5/view?usp=sharing)
