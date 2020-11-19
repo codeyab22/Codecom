@@ -16,9 +16,9 @@ improper formatting/spacing
 , and improper links and lack of readability
 
 What I learn:
-To know the fundamentals of the CSS and HTML,
-To know what tags/elements that are appropriate
-To detect errors on my visual code
+to know the fundamentals of the CSS and HTML,
+to know what tags/elements that are appropriate
+to detect errors on my visual code
 , and to execute the files and upload them
 
 
